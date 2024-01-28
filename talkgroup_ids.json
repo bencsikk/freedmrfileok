@@ -87,7 +87,7 @@
    },
    {
       "id": 216,
-      "callsign": "HUNGARY NATIONAL",
+      "callsign": "MAGYAR ORSZÁGOS TG216",
       "tgid": "TG216"
    },
    {
@@ -777,22 +777,22 @@
    },
    {
       "id": 2163,
-      "callsign": "HUNGARY NORTH",
+      "callsign": "HUNGARY ÉSZAK",
       "tgid": "TG2163"
    },
    {
       "id": 2164,
-      "callsign": "HUNGARY SOUTH",
+      "callsign": "HUNGARY DÉL",
       "tgid": "TG2164"
    },
    {
       "id": 2165,
-      "callsign": "HUNGARY TEST",
+      "callsign": "HUNGARY TESZT",
       "tgid": "TG2165"
    },
    {
       "id": 2169,
-      "callsign": "LOCAL REPEATER TG2169",
+      "callsign": "LOCAL TG2169",
       "tgid": "TG2169"
    },
    {
