@@ -91,6 +91,21 @@
       "tgid": "TG216"
    },
    {
+      "id": 216800,
+      "callsign": "HSZ8RPT LOCAL",
+      "tgid": "TG216800"
+   },
+   {
+      "id": 216801,
+      "callsign": "SZENTES RPT LOCAL",
+      "tgid": "TG216801"
+   },
+   {
+      "id": 216702,
+      "callsign": "ALBIRSA LOCAL",
+      "tgid": "TG216702"
+   },
+   {
       "id": 218,
       "callsign": "BOSNIA AND HERZEGOVINA",
       "tgid": "TG218"
