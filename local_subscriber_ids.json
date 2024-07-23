@@ -5119,6 +5119,7 @@
 {"id":"2169008","callsign":"HT800","fname":"Hotspot Tass","name":"Hotspot Tass","city":"Tass","dept":"6098","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169009","callsign":"MUVUR","fname":"Muveszur","name":"Lord Sandor","city":"Crawley","dept":"RH107AZ","land":"216","state":"216","country":"Anglia","remarks":"FreeDMR Hungary"},
 {"id":"2169010","callsign":"APRIL","fname":"Tibor","name":"Pöstyéni Tibor","city":"Szigethalom","dept":"2315","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169012","callsign":"ZKM73","fname":"ZKM73","name":"Szucs Zoltan","city":"Kunszentmiklos","dept":"6090","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169011","callsign":"PUFI","fname":"Pufibacsi","name":"Hajdu Istvan","city":"Cegled","dept":"2700","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169020","callsign":"ALBIRS2","fname":"DMR-Hotspot FreeDMR Hungary","name":"ALBIRS2","city":"Albertirsa","dept":"2730","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169100","callsign":"HG7WDD","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Hatvan","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
