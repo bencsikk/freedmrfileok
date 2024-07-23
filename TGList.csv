@@ -1,12 +1,3 @@
-# TGList_BM.txt downloaded from http://www.pistar.uk/downloads/TGList_BM.txt
-# All BrandMeister TG and Reflectors for use with YSF2DMR
-# Sourced from www.freedmr.digital
-# Please report issues at www.freedmr.digital
-#
-# Dest ID;Option;Name;Description
-#
-# Option: TG:0, REF:1, PC:2
-#
 1;0;LOCAL;TG1
 2;0;CLUSTER;TG2
 4;0;TECH-TALK;TG4
