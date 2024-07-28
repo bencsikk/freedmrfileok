@@ -5127,6 +5127,7 @@
 {"id":"2169015","callsign":"BU177","fname":"Telefonos Gabor","name":"Dallos Gabor","city":"Budapest","dept":"1184","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},  
 {"id":"2169016","callsign":"74ATI","fname":"74ES ATTILA","name":"Szabó  Attila","city":"Nyárasd","dept":"9311","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169017","callsign":"GABOR67","fname":"GABESZ67","name":"Boka Gabor","city":"London","dept":"N41LB","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169018","callsign":"HA2PWR","fname":"HA2PWR","name":"Suba  Peter","city":"Balatonfokajar","dept":"8164","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169020","callsign":"ALBIRS2","fname":"DMR-Hotspot FreeDMR Hungary","name":"ALBIRS2","city":"Albertirsa","dept":"2730","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169100","callsign":"HG7WDD","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Hatvan","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169151","callsign":"ISTVAN","fname":"Pisti, Albertirsa","name":"Istvan","city":"Albertirsa","dept":"2730","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
