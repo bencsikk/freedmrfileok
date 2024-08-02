@@ -5747,26 +5747,26 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2168001,CSZOLI,Zoli,6600 Szentes,216,Hungary
 2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
 2169000,93SKARCSI,Karcsi,6600 Szentes,216,Hungary
-2169001,638GYURI,Gyuri,Hatvan,216,Hungary
-2169003,PEPE,Tibi,216,Hungary
+2169001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
+2169003,PEPE,Tibi,5000 Szolnok,216,Hungary
 2169005,HB500,Budapest,216,Hungary
-2169006,6OSTIBI,Tibi,216,Hungary
-2169007,BALU56,Bela,Tass,216,Hungary
+2169006,6OSTIBI,Tibi,1055 Budapest,216,Hungary
+2169007,BALU56,Bela,6098 Tass,216,Hungary
 2169008,HT800,Hotspot-Tass,Hungary
 2169009,MUVUR,Muveszur,Anglia
-2169010,APRIL,Tibor,216,Hungary
+2169010,APRIL,Tibor,2315 Szigethalom,216,Hungary
 2169011,PUFI,Pufibacsi,216,Hungary
 2169013,GEREE,Gergely,216,Hungary
-2169012,ZKM73,Zoltan,216,Hungary
-2169014,ATIHN,Attila,216,Hungary
-2169015,BU177,Gabor,216,Hungary
-2169016,74ATI,Attila,216,Slovakia
-2169017,GABESZ67,Gabor,216,England
-2169018,HA2PWR,Peter,216,Hungary
+2169012,ZKM73,Zoltan,6090 Kunszentmiklos,216,Hungary
+2169014,ATIHN,Attila,2890 Tata,216,Hungary
+2169015,BU177,Gabor,1184 Budapest,216,Hungary
+2169016,74ATI,Attila,9311 Nyarasd,216,Slovakia
+2169017,GABESZ67,Gabor,N41LB London,216,England
+2169018,HA2PWR,Peter,8164 Balatonfokaraj,216,Hungary
 2169020,ALBIRS2,Hotspot-Albertirsa,Hungary
-2169022,79TIBI,Tibor,216,Hungary
-2169100,HG7WDD,Gyuri,216,Hungary
-2169151,ISTVAN,Pisti,216,Hungary
+2169022,79TIBI,Tibor,4220 Hajduboszormeny,216,Hungary
+2169100,HG7WDD,Gyuri,3000 Hatvan,216,Hungary
+2169151,ISTVAN,Pisti,2730 Albertirsa,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
 1000272,29CT067,Omci, Bundoran,Donegal,Ireland
