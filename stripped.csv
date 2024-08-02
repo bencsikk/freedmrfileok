@@ -5754,19 +5754,19 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2169007,BALU56,Bela,Tass,216,Hungary
 2169008,HT800,Hotspot-Tass,Hungary
 2169009,MUVUR,Muveszur,Anglia
-2169010,APRIL,Tibor,Hungary
-2169011,PUFI,Pufibacsi,Hungary
-2169013,GEREE,Gergely,Hungary
-2169012,ZKM73,Zoltan,Hungary
-2169014,ATIHN,Attila,Hungary
-2169015,BU177,Gabor,Hungary
-2169016,74ATI,Attila,Slovakia
-2169017,GABESZ67,Gabor,England
-2169018,HA2PWR,Peter,Hungary
+2169010,APRIL,Tibor,216,Hungary
+2169011,PUFI,Pufibacsi,216,Hungary
+2169013,GEREE,Gergely,216,Hungary
+2169012,ZKM73,Zoltan,216,Hungary
+2169014,ATIHN,Attila,216,Hungary
+2169015,BU177,Gabor,216,Hungary
+2169016,74ATI,Attila,216,Slovakia
+2169017,GABESZ67,Gabor,216,England
+2169018,HA2PWR,Peter,216,Hungary
 2169020,ALBIRS2,Hotspot-Albertirsa,Hungary
-2169022,79TIBI,Tibor,Hungary
-2169100,HG7WDD,Gyuri
-2169151,ISTVAN,Pisti
+2169022,79TIBI,Tibor,216,Hungary
+2169100,HG7WDD,Gyuri,216,Hungary
+2169151,ISTVAN,Pisti,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
 1000272,29CT067,Omci, Bundoran,Donegal,Ireland
