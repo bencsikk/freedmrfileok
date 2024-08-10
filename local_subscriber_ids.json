@@ -5111,7 +5111,7 @@
 {"id":"2161116","callsign":"IAXLINK","fname":"Reflector FreeDMR Hungary","name":"IAX Link","city":"Szentes","dept":"6600","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2162000","callsign":"AREFSZ","fname":"Analog Reflector Szentes","name":"REF001","city":"Szentes","dept":"6600","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2168000","callsign":"93SKARCSI","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
-  {"id":"2168111","callsign":"REF8FM","fname":"A-FM REFLECTOR","name":"ANALOG REFLECTOR","city":"Kajanujfalu","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2168111","callsign":"REF8FM","fname":"A-FM REFLECTOR","name":"ANALOG REFLECTOR","city":"Kajanujfalu","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169000","callsign":"HA8BKG","fname":"Karcsi, Szentes","name":"Karcsi","city":"Szentes","dept":"6600","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169001","callsign":"638GYURI","fname":"Gyuri, Hatvan","name":"Gyuri","city":"Hatvan","dept":"3000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169003","callsign":"PEPE","fname":"Tibi, Szolnok-Szandaszolos","name":"Tibor","city":"Szolnok","dept":"5000","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
