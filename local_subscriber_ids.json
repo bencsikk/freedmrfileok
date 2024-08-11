@@ -17,6 +17,7 @@
 {"id":"216702","callsign":"ALBIRSA1","fname":"DMR-Repeater Hungary","name":"DMR-Repeater Albertirsa","city":"Albertirsa","dept":"2730","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"216800","callsign":"HSZ8RPT","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Szentes","city":"Szentes","dept":"6600","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169020","callsign":"ALBIRS2","fname":"DMR-Hotspot FreeDMR Hungary","name":"ALBIRS2","city":"Albertirsa","dept":"2730","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169021","callsign":"BU179","fname":"Zolan, Budapest","name":"Zolan Budapest","city":"Budapest","dept":"1011","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"302911","callsign":"RADIO1_ID","fname":"RadioID","name":"RadioID","city":"Vienne","dept":"","land":"208","state":"86","country":"France","remarks":"FRDMR"},
 {"id":"444000","callsign":"44DMR","fname":"Benjamin","name":"Benjamin","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
 {"id":"444210","callsign":"44DMR","fname":"Benjamin","name":"Benjamin","city":"Loire-Atlantique","dept":"","land":"208","state":"44","country":"France","remarks":"44DMR"},
