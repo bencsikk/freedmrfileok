@@ -5133,6 +5133,8 @@
 {"id":"2169020","callsign":"ALBIRS2","fname":"DMR-Hotspot FreeDMR Hungary","name":"ALBIRS2","city":"Albertirsa","dept":"2730","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169022","callsign":"79TIBI","fname":"79TIBI","name":"Kertesz Tibor","city":"Hajduboszormeny","dept":"4220","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169023","callsign":"ZZOTYA","fname":"Zoltan, Zamoly","name":"Kiss Zoltan","city":"Zamoly","dept":"8081","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169025","callsign":"ERIC552","fname":"Toth Tibor, Karcag","name":"Toth Tibor","city":"Karcag,"dept":"5300","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
+{"id":"2169026","callsign":"RPAPA","fname":"Repetapapa, Papa","name":"Szalai Attila","city":"Papa,"dept":"8500","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169024","callsign":"FGABOR","fname":"Furedi Gabor, Budapest","name":"Papp Gabor","city":"Budapest","dept":"1141","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169100","callsign":"HG7WDD","fname":"DMR-Repeater FreeDMR Hungary","name":"Repeater Hatvan","city":"Hatvan","dept":"3000","country":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
 {"id":"2169151","callsign":"ISTVAN","fname":"Pisti, Albertirsa","name":"Istvan","city":"Albertirsa","dept":"2730","land":"216","state":"216","country":"Hungary","remarks":"FreeDMR Hungary"},
