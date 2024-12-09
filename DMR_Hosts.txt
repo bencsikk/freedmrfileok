@@ -44,6 +44,7 @@ FreeDMR_Ireland			0000	unmsomci.myvnc.com			passw0rd	62031
 FreeDMR_Hungary			0000	freedmr.hu					passw0rd	62031
 FreeDMR_France			0000	serveur-f62dmr.fr			passw0rd	55555
 FreeDMR_OpenDMR			0000	opendmr.de				passw0rd	62031
+FreeDMR_Bremen		            	0000	  dchb.ddns.net/jockel				            passw0rd	      62031
 ######################################################################################################
 #	Custom DMR_Hosts.txt
 #
