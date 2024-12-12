@@ -65,7 +65,7 @@ FreeDMR_Bremen		            	0000	  dchb.ddns.net/jockel				            passw0rd
 ##############################################################################################
 # Name				DMR-ID	IP/Hostname			Password	Port #
 ##############################################################################################
-DMR+FDMRHUSECURE			2162	freedmr.hu				jelszo	62031
+DMR+freedmr.hu			2161	freedmr.hu				jelszo	62031
 DMR+freedmr.funkerportal.de			2629	freedmr.funkerportal.de				Dein Passwort	62031
 DMR+dmr446.ddnss.de             2628  dmr446.ddnss.de               Dein Passwort 62031
 #DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
