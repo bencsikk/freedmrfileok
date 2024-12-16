@@ -1,0 +1,7 @@
+# YSF_Hosts.txt downloaded from http://www.pistar.uk/downloads/YSF_Hosts.txt
+# All hostnames resolved to IP addresses to remove DNS load from YSFGateway
+# File updated on Monday 16th of December 2024
+# Please report issues at https://www.facebook.com/groups/pistarusergroup/
+# Unresolvable hosts are removed until their entries are resolvable again
+# sourced from https://register.ysfreflector.de
+216100;FREEDMR.HU;YSF;freedmr.hu;42000;000
