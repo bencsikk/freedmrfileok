@@ -70,4 +70,3 @@ DMR+freedmr.funkerportal.de			2629	freedmr.funkerportal.de				Dein Passwort	6203
 DMR+dmr446.ddnss.de             2628  dmr446.ddnss.de               Dein Passwort 62031
 #DMR+_Custom_01			1234	1.2.3.4				PASSWORD	55555
 ##############################################################################################
-BM_freedmr.hu           2161    freedmr.hu                                      passw0rd        62031
