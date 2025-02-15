@@ -4,4 +4,4 @@
 # Please report issues at https://www.facebook.com/groups/pistarusergroup/
 # Unresolvable hosts are removed until their entries are resolvable again
 # sourced from https://register.ysfreflector.de
-216100;FREEDMR.HU;YSF;freedmr.hu;42000;000
+02161;FREEDMRHU;YSF;446dmr.hu;42002;000
